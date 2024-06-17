@@ -2,96 +2,127 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Zijian (William) Niu
+    - name: Email
+      value: <a href='mailto:zniu@mit.edu'>zniu [at] mit.edu</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Computational and Systems Biology
+      institution: Massachusetts Institute of Technology
+      year: 2024 - Present
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: B.A., <em>summa cum laude</em>, in Biochemistry, Biophysics, and Physics
+      institution: University of Pennsylvania, Roy and Diana Vagelos Scholars Program in the Molecular Life Sciences
+      year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - <strong>GPA:</strong> 4.00/4.00
+        - <strong>Relevant Coursework:</strong> Molecular Biology and Genetics, Biochemistry, Biophysics, Organic Chemistry, Statistical Mechanics, Analytical Mechanics, Quantum Mechanics, Electrodynamics, Theoretical and Computational Neuroscience, Physical Networks, Machine Learning, Large-Scale Optimization, Probability Theory, Differential Geometry, Differential Equations, Complex Analysis, Real Analysis
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Researcher at the Arjun Raj Lab
+      department: Department of Bioengineering and Genetics, University of Pennsylvania
+      year: 2021 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - <strong>Created Piscis</strong>, an automatic deep learning algorithm for spot detection in RNA fluorescence <em>in situ</em> hybridization (FISH) images. Significantly outperformed existing computational methods.
+        - <strong>Mentored a high school researcher</strong> on deep learning and writing Python functions for data preprocessing.
+        - <strong>Contributed to NimbusImage</strong>, a web platform for biological image analysis that empowers researchers to visualize their data interactively while leveraging state-of-the-art machine learning algorithms.
+        - <strong>Deployed NimbusImage</strong> via Docker on Linux servers in both the Raj Lab and Shaffer Lab.
+    - title: Undergraduate Researcher at the Sydney Shaffer Lab
+      department: Department of Pathology and Bioengineering, University of Pennsylvania
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - <strong>Investigated the molecular origins of Barrett's esophagus</strong> by analyzing single-cell RNA sequencing data of patient samples in R. Discovered a rare subpopulation of ciliated cells expressing fetal intestinal genes.
+        - <strong>Created Cellori</strong>, a fast and robust algorithm for nuclei segmentation in fluorescence microscopy images.
+        - <strong>Created DeepTile</strong>, a Python library that splits large images into smaller tiles, processes each tile, and stitches together the outputs, allowing functions to scale up to arbitrary input image sizes.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Hertz Foundation Fellowship
+        - PD Soros Fellowship for New Americans
+        - DOE Computational Science Graduate Fellowship (CSGF)
+        - NSF Graduate Research Fellowship (GRFP) — <em>declined</em>
+        - Penn Arts and Sciences Dean's Scholar
+        - Penn Physics and Astronomy William E. Stephens Memorial Prize
+        - Phi Beta Kappa
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Barry M. Goldwater Scholarship
+    - year: 2022
+      items:
+        - Roy and Diana Vagelos Science Challenge Award
+    - year: 2020
+      items:
+        - Roy and Diana Vagelos Scholar
 
-- title: Academic Interests
-  type: nested_list
+- title: Teaching Experience
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Teaching Assistant
+      department: "ESE 5300: Elements of Probability Theory"
+      year: 2023
+      description:
+        - Graduate-level electrical engineering (ESE) course at Penn on measure-theoretic probability theory.
+        - Hosted two 1.5-hour office hours each week to guide students through assignments and recitations to review and practice important mathematical concepts.
+    - title: Workshop Leader
+      department: Organic Chemistry Workshops
+      year: 2021 - 2023
+      description:
+        - Program coordinated by Penn's Weingarten Learning Resources Center for organic chemistry students.
+        - Developed lesson plans and facilitated weekly two-hour workshop sessions to help students reinforce and apply concepts learned from lectures to solve challenging organic chemistry problems.
+        - <strong>Over 200 students attended my workshops.</strong>
 
-- title: Other Interests
-  type: list
+- title: Leadership and Community Service
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Co-founder, Co-president
+      department: Project Lucid
+      year: 2022 - 2024
+      description:
+        - Initiative with the mission of spreading awareness and building confidence among Penn undergraduates for effective science communication.
+        - <strong>Hosted the Lucid Science Challenge</strong>, a research proposal competition based on the National Science Foundation's grant review process, providing a platform for undergraduates to practice adapting their science communication to a new audience.
+        - Invited seven Penn professors and an industry scientist and executive from Ginkgo Bioworks to serve on our competition judging panels. Raised over \$1,000 from sponsorships to fund prizes and merch.
+        - <strong>Hosted a science communication workshop series</strong>, covering topics such as audience identification and scientific storytelling.
+    - title: Operations Committee, Event Supervisor, Urban Initiative Fellow
+      department: Science Olympiad at the University of Pennsylvania (SOUP)
+      year: 2020 - 2024
+      description:
+        - One of the most competitive Science Olympiad Invitational Tournaments with over 750 high schoolers participating annually.
+        - Organized virtual social and Penn student panel events for the 2021 and 2022 tournaments.
+        - Wrote and proctored exams for the Chemistry Lab (2021) and Codebusters (2022, 2023, 2024) events.
+        - <strong>Mentored high schoolers</strong> from underserved Philadelphia high schools on their Science Olympiad events.
+    - title: Vice President of Community Outreach
+      department: Penn Undergraduate Chemistry Society (PUCS)
+      year: 2022 - 2023
+      description:
+        - Organization to promote the appreciation of chemistry within Penn and the Philadelphia community.
+        - Hosted a mixer event combining liquid nitrogen ice cream-making with a student research poster session.
+        - <strong>Launched a community outreach initiative</strong> to share the fun of chemistry and its everyday relevance with students from underserved schools. Conducted a successful pilot at Parkway West High School.
+    - title: Co-Founder, Director, Head Problem Writer
+      department: Winchester Math Competition (WinMaC)
+      year: 2015 - 2020
+      description:
+        - Math competition for elementary students in the fourth and fifth grades.
+        - Proposed over 300 problems. Managed weekly team meetings. Helped with venue coordination. Fostered relationships with elementary schools. Hosted over 250 participants and 50 teams from 2016 to 2020.
+
+- title: Professional Development
+  type: time_table
+  contents:
+    - title: Summer School Student
+      department: Physics of Life Summer School at Princeton University
+      year: 2023
+      description:
+        - Summer school offered by Princeton University's Center for the Physics of Biological Function, targeting advanced undergraduates interested in biological physics.
+        - One of 24 students chosen by application to attend two weeks of lectures, problem sessions, and hands-on experiments to build an understanding of how physical principles give rise to biological phenomena.
