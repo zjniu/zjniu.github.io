@@ -1,22 +1,34 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Immune Memory is Stimulus Specific
+    authors: Aoife O’Farrell, <strong>Zijian Niu</strong>, Jingxin Li, Laura C. Van Eyndhoven, Kavitha Sarma, Arjun Raj
+    conference_short: bioRxiv
+    conference: Submitted to Cell, under review. bioRxiv, 2025.
+    pdf: https://www.biorxiv.org/content/10.1101/2025.01.22.634275.full.pdf
+    page: https://www.biorxiv.org/content/10.1101/2025.01.22.634275
+    image: ./assets/img/ofarrell2025.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Piscis: a novel loss estimator of the F1 score enables accurate spot detection in fluorescence microscopy images via deep learning"
+    authors: <strong>Zijian Niu</strong>, Aoife O’Farrell, Jingxin Li, Sam Reffsin, Naveen Jain, Ian Dardani, Yogesh Goyal, and Arjun Raj
+    conference_short: bioRxiv
+    conference: Submitted to Cell Systems, under revision. bioRxiv, 2024.
+    pdf: https://www.biorxiv.org/content/10.1101/2024.01.31.578123.full.pdf
+    page: https://www.biorxiv.org/content/10.1101/2024.01.31.578123
+    code: https://github.com/zjniu/Piscis
+    image: ./assets/img/niu2024.svg
+
+  - title: AP-1 Mediates Cellular Adaptation and Memory Formation During Therapy Resistance
+    authors: Jingxin Li, Pavithran T. Ravindran, Aoife O’Farrell, Gianna T. Busch, Ryan H. Boe, <strong>Zijian Niu</strong>, Sean Woo, Margaret C. Dunagin, Naveen Jain, Yogesh Goyal, Kavitha Sarma, Meenhard Herlyn, and Arjun Raj
+    conference_short: bioRxiv
+    conference: Submitted to Nature Communications, under revision. bioRxiv, 2024.
+    pdf: https://www.biorxiv.org/content/10.1101/2024.07.25.604999.full.pdf
+    page: https://www.biorxiv.org/content/10.1101/2024.07.25.604999
+    image: ./assets/img/li2024.png
+
+  - title: Disrupting cellular memory to overcome drug resistance
+    authors: Guillaume Harmange, Raúl A. Reyes Hueros, Dylan L. Schaff, Benjamin Emert, Michael Saint-Antoine, Laura C. Kim, <strong>Zijian Niu</strong>, Shivani Nellore, Mitchell E. Fane, Gretchen M. Alicea, Ashani T. Weeraratna, M. Celeste Simon, Abhyudai Singh, and Sydney M. Shaffer
+    conference_short: Nat Commun
+    conference: Nature Communications, 2023.
+    pdf: https://www.nature.com/articles/s41467-023-41811-8.pdf
+    page: https://www.nature.com/articles/s41467-023-41811-8
+    image: ./assets/img/harmange2023.svg
