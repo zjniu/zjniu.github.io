@@ -1,5 +1,21 @@
 main:
 
+  - title: "Piscis: A loss estimator of the F1 score enables accurate spot detection in fluorescence microscopy images via deep learning"
+    authors: <strong>Zijian Niu</strong>, Aoife O’Farrell, Jingxin Li, Sam Reffsin, Naveen Jain, Ian Dardani, Yogesh Goyal, and Arjun Raj
+    conference_short: Cell Syst.
+    conference: Cell Systems, 2025.
+    pdf: ./assets/files/1-s2.0-S2405471225002819-mmc4.pdf
+    page: https://authors.elsevier.com/c/1m7~E8YyDfuZj3
+    code: https://github.com/zjniu/Piscis
+    image: ./assets/img/niu2024.svg
+
+  - title: "NimbusImage: a cloud-computing platform for image analysis"
+    authors: <strong>Zijian Niu</strong>, Thibault Bruyère, David Manthey, Jingxin Li, Aoife O’Farrell, and Arjun Raj
+    conference_short: Nat. Methods
+    conference: Nature Methods, 2025.
+    code: https://github.com/arjunrajlaboratory/NimbusImage
+    image: ./assets/img/nimbusimage.png
+
   - title: Immune Memory is Stimulus Specific
     authors: Aoife O’Farrell, <strong>Zijian Niu</strong>, Jingxin Li, Laura C. Van Eyndhoven, Kavitha Sarma, Arjun Raj
     conference_short: bioRxiv
@@ -8,26 +24,17 @@ main:
     page: https://www.biorxiv.org/content/10.1101/2025.01.22.634275
     image: ./assets/img/ofarrell2025.png
 
-  - title: "Piscis: a novel loss estimator of the F1 score enables accurate spot detection in fluorescence microscopy images via deep learning"
-    authors: <strong>Zijian Niu</strong>, Aoife O’Farrell, Jingxin Li, Sam Reffsin, Naveen Jain, Ian Dardani, Yogesh Goyal, and Arjun Raj
-    conference_short: bioRxiv
-    conference: Submitted to Cell Systems, under revision. bioRxiv, 2024.
-    pdf: https://www.biorxiv.org/content/10.1101/2024.01.31.578123.full.pdf
-    page: https://www.biorxiv.org/content/10.1101/2024.01.31.578123
-    code: https://github.com/zjniu/Piscis
-    image: ./assets/img/niu2024.svg
-
   - title: AP-1 Mediates Cellular Adaptation and Memory Formation During Therapy Resistance
     authors: Jingxin Li, Pavithran T. Ravindran, Aoife O’Farrell, Gianna T. Busch, Ryan H. Boe, <strong>Zijian Niu</strong>, Sean Woo, Margaret C. Dunagin, Naveen Jain, Yogesh Goyal, Kavitha Sarma, Meenhard Herlyn, and Arjun Raj
     conference_short: bioRxiv
-    conference: Submitted to Nature Communications, under revision. bioRxiv, 2024.
+    conference: Submitted to Nature Communications, accepted. bioRxiv, 2024.
     pdf: https://www.biorxiv.org/content/10.1101/2024.07.25.604999.full.pdf
     page: https://www.biorxiv.org/content/10.1101/2024.07.25.604999
     image: ./assets/img/li2024.png
 
   - title: Disrupting cellular memory to overcome drug resistance
     authors: Guillaume Harmange, Raúl A. Reyes Hueros, Dylan L. Schaff, Benjamin Emert, Michael Saint-Antoine, Laura C. Kim, <strong>Zijian Niu</strong>, Shivani Nellore, Mitchell E. Fane, Gretchen M. Alicea, Ashani T. Weeraratna, M. Celeste Simon, Abhyudai Singh, and Sydney M. Shaffer
-    conference_short: Nat Commun
+    conference_short: Nat. Commun.
     conference: Nature Communications, 2023.
     pdf: https://www.nature.com/articles/s41467-023-41811-8.pdf
     page: https://www.nature.com/articles/s41467-023-41811-8
