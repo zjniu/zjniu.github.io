@@ -13,6 +13,8 @@ main:
     authors: <strong>Zijian Niu</strong>, Thibault Bruyère, David Manthey, Jingxin Li, Aoife O’Farrell, and Arjun Raj
     conference_short: Nat. Methods
     conference: Nature Methods, 2025.
+    pdf: ./assets/files/s41592-025-02942-6.pdf
+    page: https://www.nature.com/articles/s41592-025-02942-6
     code: https://github.com/arjunrajlaboratory/NimbusImage
     image: ./assets/img/nimbusimage.png
 
