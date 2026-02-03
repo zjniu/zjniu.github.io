@@ -1,5 +1,14 @@
 main:
 
+  - title: "NimbusImage: a cloud-computing platform for image analysis"
+    authors: <strong>Zijian Niu</strong>, Thibault Bruyère, David Manthey, Jingxin Li, Aoife O’Farrell, and Arjun Raj
+    conference_short: Nat. Methods
+    conference: Nature Methods, 2026.
+    pdf: ./assets/files/s41592-025-02942-6.pdf
+    page: https://www.nature.com/articles/s41592-025-02942-6
+    code: https://github.com/arjunrajlaboratory/NimbusImage
+    image: ./assets/img/nimbusimage.png
+
   - title: "Piscis: A loss estimator of the F1 score enables accurate spot detection in fluorescence microscopy images via deep learning"
     authors: <strong>Zijian Niu</strong>, Aoife O’Farrell, Jingxin Li, Sam Reffsin, Naveen Jain, Ian Dardani, Yogesh Goyal, and Arjun Raj
     conference_short: Cell Syst.
@@ -8,15 +17,6 @@ main:
     page: https://authors.elsevier.com/c/1m7~E8YyDfuZj3
     code: https://github.com/zjniu/Piscis
     image: ./assets/img/niu2024.svg
-
-  - title: "NimbusImage: a cloud-computing platform for image analysis"
-    authors: <strong>Zijian Niu</strong>, Thibault Bruyère, David Manthey, Jingxin Li, Aoife O’Farrell, and Arjun Raj
-    conference_short: Nat. Methods
-    conference: Nature Methods, 2025.
-    pdf: ./assets/files/s41592-025-02942-6.pdf
-    page: https://www.nature.com/articles/s41592-025-02942-6
-    code: https://github.com/arjunrajlaboratory/NimbusImage
-    image: ./assets/img/nimbusimage.png
 
   - title: Immune Memory is Stimulus Specific
     authors: Aoife O’Farrell, <strong>Zijian Niu</strong>, Jingxin Li, Laura C. Van Eyndhoven, Kavitha Sarma, Arjun Raj
