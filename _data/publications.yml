@@ -1,7 +1,39 @@
 main:
 
+  - title: "Quantitative cytokine profiling of primary human macrophages reveals distinct single-cell modes of trained immunity"
+    authors: Aoife O’Farrell, <strong>Zijian Niu</strong>, Arjun Raj
+    conference_short: Cell Syst.
+    conference: Cell Systems, 2026.
+    pdf: ./assets/files/1-s2.0-S2405471226001304-main.pdf
+    page: https://www.cell.com/cell-systems/abstract/S2405-4712(26)00130-4
+    image: ./assets/img/ofarrell2026_2.png
+
+  - title: "Human macrophages encode stimulus-specific information of prior exposures through trained immunity"
+    authors: Aoife O’Farrell, <strong>Zijian Niu</strong>, Jingxin Li, Laura C Van Eyndhoven, Kavitha Sarma, Arjun Raj
+    conference_short: Cell Syst.
+    conference: Cell Systems, 2026.
+    pdf: ./assets/files/1-s2.0-S2405471226001298-main.pdf
+    page: https://www.cell.com/cell-systems/abstract/S2405-4712(26)00129-8
+    image: ./assets/img/ofarrell2026_1.png
+
+  - title: "ErbB family receptor dimerization dynamics and dysregulation via long-term single-molecule imaging"
+    authors: Kaibo Ma, Xiaojie Ma, João F Shida, <strong>Zijian Niu</strong>, Yuzhu Karlie Lin, Saptarshi Mandal, Alexandra Dobbins, Lior Golomb, Michael J Eck, Heidi Greulich, Matthew Meyerson, Chunte Sam Peng
+    conference_short: Cell
+    conference: Cell, 2026.
+    pdf: ./assets/files/PIIS0092867426003995.pdf
+    page: https://www.cell.com/cell/fulltext/S0092-8674(26)00399-5
+    image: ./assets/img/ma2026.png
+  
+  - title: "AP-1 mediates cellular adaptation and memory formation"
+    authors: Jingxin Li, Pavithran T. Ravindran, Aoife O’Farrell, Gianna T. Busch, Ryan H. Boe, <strong>Zijian Niu</strong>, Sean Woo, Margaret C. Dunagin, Naveen Jain, Yogesh Goyal, Kavitha Sarma, Meenhard Herlyn, Arjun Raj
+    conference_short: Nat. Commun.
+    conference: Nature Communications, 2026.
+    pdf: ./assets/files/s41467-026-70862-w.pdf
+    page: https://www.nature.com/articles/s41467-026-70862-w
+    image: ./assets/img/li2024.png
+  
   - title: "NimbusImage: a cloud-computing platform for image analysis"
-    authors: <strong>Zijian Niu</strong>, Thibault Bruyère, David Manthey, Jingxin Li, Aoife O’Farrell, and Arjun Raj
+    authors: <strong>Zijian Niu</strong>, Thibault Bruyère, David Manthey, Jingxin Li, Aoife O’Farrell, Arjun Raj
     conference_short: Nat. Methods
     conference: Nature Methods, 2026.
     pdf: ./assets/files/s41592-025-02942-6.pdf
@@ -10,32 +42,16 @@ main:
     image: ./assets/img/nimbusimage.png
 
   - title: "Piscis: A loss estimator of the F1 score enables accurate spot detection in fluorescence microscopy images via deep learning"
-    authors: <strong>Zijian Niu</strong>, Aoife O’Farrell, Jingxin Li, Sam Reffsin, Naveen Jain, Ian Dardani, Yogesh Goyal, and Arjun Raj
+    authors: <strong>Zijian Niu</strong>, Aoife O’Farrell, Jingxin Li, Sam Reffsin, Naveen Jain, Ian Dardani, Yogesh Goyal, Arjun Raj
     conference_short: Cell Syst.
     conference: Cell Systems, 2025.
     pdf: ./assets/files/1-s2.0-S2405471225002819-mmc4.pdf
-    page: https://authors.elsevier.com/c/1m7~E8YyDfuZj3
+    page: https://www.cell.com/cell-systems/abstract/S2405-4712(25)00281-9
     code: https://github.com/zjniu/Piscis
     image: ./assets/img/niu2024.svg
 
-  - title: Immune Memory is Stimulus Specific
-    authors: Aoife O’Farrell, <strong>Zijian Niu</strong>, Jingxin Li, Laura C. Van Eyndhoven, Kavitha Sarma, Arjun Raj
-    conference_short: bioRxiv
-    conference: Submitted to Cell, under review. bioRxiv, 2025.
-    pdf: https://www.biorxiv.org/content/10.1101/2025.01.22.634275.full.pdf
-    page: https://www.biorxiv.org/content/10.1101/2025.01.22.634275
-    image: ./assets/img/ofarrell2025.png
-
-  - title: AP-1 Mediates Cellular Adaptation and Memory Formation During Therapy Resistance
-    authors: Jingxin Li, Pavithran T. Ravindran, Aoife O’Farrell, Gianna T. Busch, Ryan H. Boe, <strong>Zijian Niu</strong>, Sean Woo, Margaret C. Dunagin, Naveen Jain, Yogesh Goyal, Kavitha Sarma, Meenhard Herlyn, and Arjun Raj
-    conference_short: bioRxiv
-    conference: Submitted to Nature Communications, accepted. bioRxiv, 2024.
-    pdf: https://www.biorxiv.org/content/10.1101/2024.07.25.604999.full.pdf
-    page: https://www.biorxiv.org/content/10.1101/2024.07.25.604999
-    image: ./assets/img/li2024.png
-
   - title: Disrupting cellular memory to overcome drug resistance
-    authors: Guillaume Harmange, Raúl A. Reyes Hueros, Dylan L. Schaff, Benjamin Emert, Michael Saint-Antoine, Laura C. Kim, <strong>Zijian Niu</strong>, Shivani Nellore, Mitchell E. Fane, Gretchen M. Alicea, Ashani T. Weeraratna, M. Celeste Simon, Abhyudai Singh, and Sydney M. Shaffer
+    authors: Guillaume Harmange, Raúl A. Reyes Hueros, Dylan L. Schaff, Benjamin Emert, Michael Saint-Antoine, Laura C. Kim, <strong>Zijian Niu</strong>, Shivani Nellore, Mitchell E. Fane, Gretchen M. Alicea, Ashani T. Weeraratna, M. Celeste Simon, Abhyudai Singh, Sydney M. Shaffer
     conference_short: Nat. Commun.
     conference: Nature Communications, 2023.
     pdf: https://www.nature.com/articles/s41467-023-41811-8.pdf
