@@ -1,4 +1,24 @@
-main:
+selected:
+
+  - title: "NimbusImage: a cloud-computing platform for image analysis"
+    authors: <strong>Zijian Niu</strong>, Thibault Bruyère, David Manthey, Jingxin Li, Aoife O’Farrell, Arjun Raj
+    conference_short: Nat. Methods
+    conference: Nature Methods, 2026.
+    pdf: ./assets/files/s41592-025-02942-6.pdf
+    page: https://www.nature.com/articles/s41592-025-02942-6
+    code: https://github.com/arjunrajlaboratory/NimbusImage
+    image: ./assets/img/nimbusimage.png
+
+  - title: "Piscis: A loss estimator of the F1 score enables accurate spot detection in fluorescence microscopy images via deep learning"
+    authors: <strong>Zijian Niu</strong>, Aoife O’Farrell, Jingxin Li, Sam Reffsin, Naveen Jain, Ian Dardani, Yogesh Goyal, Arjun Raj
+    conference_short: Cell Syst.
+    conference: Cell Systems, 2025.
+    pdf: ./assets/files/1-s2.0-S2405471225002819-mmc4.pdf
+    page: https://www.cell.com/cell-systems/abstract/S2405-4712(25)00281-9
+    code: https://github.com/zjniu/Piscis
+    image: ./assets/img/niu2024.svg
+
+other:
 
   - title: "Quantitative cytokine profiling of primary human macrophages reveals distinct single-cell modes of trained immunity"
     authors: Aoife O’Farrell, <strong>Zijian Niu</strong>, Arjun Raj
@@ -23,7 +43,7 @@ main:
     pdf: ./assets/files/PIIS0092867426003995.pdf
     page: https://www.cell.com/cell/fulltext/S0092-8674(26)00399-5
     image: ./assets/img/ma2026.png
-  
+
   - title: "AP-1 mediates cellular adaptation and memory formation"
     authors: Jingxin Li, Pavithran T. Ravindran, Aoife O’Farrell, Gianna T. Busch, Ryan H. Boe, <strong>Zijian Niu</strong>, Sean Woo, Margaret C. Dunagin, Naveen Jain, Yogesh Goyal, Kavitha Sarma, Meenhard Herlyn, Arjun Raj
     conference_short: Nat. Commun.
@@ -31,24 +51,6 @@ main:
     pdf: ./assets/files/s41467-026-70862-w.pdf
     page: https://www.nature.com/articles/s41467-026-70862-w
     image: ./assets/img/li2024.png
-  
-  - title: "NimbusImage: a cloud-computing platform for image analysis"
-    authors: <strong>Zijian Niu</strong>, Thibault Bruyère, David Manthey, Jingxin Li, Aoife O’Farrell, Arjun Raj
-    conference_short: Nat. Methods
-    conference: Nature Methods, 2026.
-    pdf: ./assets/files/s41592-025-02942-6.pdf
-    page: https://www.nature.com/articles/s41592-025-02942-6
-    code: https://github.com/arjunrajlaboratory/NimbusImage
-    image: ./assets/img/nimbusimage.png
-
-  - title: "Piscis: A loss estimator of the F1 score enables accurate spot detection in fluorescence microscopy images via deep learning"
-    authors: <strong>Zijian Niu</strong>, Aoife O’Farrell, Jingxin Li, Sam Reffsin, Naveen Jain, Ian Dardani, Yogesh Goyal, Arjun Raj
-    conference_short: Cell Syst.
-    conference: Cell Systems, 2025.
-    pdf: ./assets/files/1-s2.0-S2405471225002819-mmc4.pdf
-    page: https://www.cell.com/cell-systems/abstract/S2405-4712(25)00281-9
-    code: https://github.com/zjniu/Piscis
-    image: ./assets/img/niu2024.svg
 
   - title: Disrupting cellular memory to overcome drug resistance
     authors: Guillaume Harmange, Raúl A. Reyes Hueros, Dylan L. Schaff, Benjamin Emert, Michael Saint-Antoine, Laura C. Kim, <strong>Zijian Niu</strong>, Shivani Nellore, Mitchell E. Fane, Gretchen M. Alicea, Ashani T. Weeraratna, M. Celeste Simon, Abhyudai Singh, Sydney M. Shaffer

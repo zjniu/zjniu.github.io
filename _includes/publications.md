@@ -1,9 +1,15 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+{% assign sections = "selected,other" | split: "," %}
+{% assign headings = "Selected Publications,Other Publications" | split: "," %}
+{% assign anchors = "publications,other-publications" | split: "," %}
+
+{% for section in sections %}
+
+<h2 id="{{ anchors[forloop.index0] }}" style="margin: 2px 0px -15px;">{{ headings[forloop.index0] }}</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.publications[section] %}
 
 <li>
 <div class="pub-row">
@@ -43,9 +49,10 @@
   </div>
 </div>
 </li>
-<br>
 
 {% endfor %}
 
 </ol>
 </div>
+
+{% endfor %}
